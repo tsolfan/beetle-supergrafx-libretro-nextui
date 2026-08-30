@@ -1,8 +1,8 @@
 {
-  "name": "PC Engine SuperGrafix",
+  "name": "PC Engine SuperGrafx",
   "version": "v1.0.0",
   "type": "EMU",
-  "description": "A PC Engine SuperGrafix emulator for minarch using the Beetle PC Engine SuperGrafx core.",
+  "description": "A PC Engine SuperGrafx emulator for minarch using the Beetle PC Engine SuperGrafx core.",
   "author": "TSOLfan",
   "repo_url": "https://github.com/tsolfan/beetle-supergrafx-libretro-nextui/",
   "release_filename": "SGX.pak.zip",

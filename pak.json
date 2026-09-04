@@ -1,5 +1,5 @@
 {
-  "name": "PC Engine SuperGrafx",
+  "name": "SGX",
   "version": "v1.0.0",
   "type": "EMU",
   "description": "A PC Engine SuperGrafx emulator for minarch using the Beetle PC Engine SuperGrafx core.",
